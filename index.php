@@ -81,7 +81,7 @@ include("header.php");
                     <div class="single-banner">
                         <img src="img/banner-1.png" alt="Mens">
                         <div class="inner-text">
-                            <h4>Groom</h4>
+                            <h4>Groom's</h4>
                         </div>
                     </div>
                 </a>
@@ -91,7 +91,7 @@ include("header.php");
                     <div class="single-banner">
                         <img src="img/banner-2.png" alt="">
                         <div class="inner-text">
-                            <h4>Bride</h4>
+                            <h4>Bride's</h4>
                         </div>
                     </div>
                 </a>
@@ -102,7 +102,7 @@ include("header.php");
                     <div class="single-banner">
                         <img src="img/banner-3.png" alt="">
                         <div class="inner-text">
-                            <h4>Kid’s</h4>
+                            <h4>Accessories</h4>
                         </div>
                     </div>
                 </a>
@@ -119,7 +119,7 @@ include("header.php");
         <div class="row">
             <div class="col-lg-3">
                 <div class="product-large set-bg" data-setbg="img/women-large.jpg">
-                    <h2>Bride</h2>
+                    <h2>Bride's</h2>
                     <a href="shop.php?cat_id=2">Discover More</a>
                 </div>
             </div>
@@ -157,7 +157,7 @@ include("header.php");
             </div>
             <div class="col-lg-3 offset-lg-1">
                 <div class="product-large set-bg m-large" data-setbg="img/men-large.jpg">
-                    <h2>Groom</h2>
+                    <h2>Groom's</h2>
                     <a href="shop.php?cat_id=1">Discover More</a>
                 </div>
             </div>
