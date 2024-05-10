@@ -18,7 +18,7 @@ include('db.php');
 
 <!-- Tab Icon -->
 
-<link rel="icon" href="img/icon.svg">
+<link rel="icon" type="image/png" href="img/icon.png">
 
 <!-- Css Styles -->
 <link rel='stylesheet' href='css/bootstrap.min.css' type='text/css'>

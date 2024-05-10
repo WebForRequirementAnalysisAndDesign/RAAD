@@ -90,7 +90,7 @@ function getWProduct()
                 <h5>$product_title</h5>
             </a>
             <div class='product-price'>
-               PKR $product_price
+               $ $product_price
             </div>
         </div>
     </div>
@@ -131,7 +131,7 @@ function getMProduct()
                 <h5>$product_title</h5>
             </a>
             <div class='product-price'>
-            PKR $product_price
+            $ $product_price
             </div>
         </div>
     </div>
@@ -250,7 +250,7 @@ function getPcatProd()
                             <h5>$product_title</h5>
                         </a>
                         <div class='product-price'>
-                        PKR $product_price                    
+                        $ $product_price                    
                         </div>
                     </div>
                 </div>
@@ -323,7 +323,7 @@ function getcatProd()
                             <h5>$product_title</h5>
                         </a>
                         <div class='product-price'>
-                        PKR $product_price                    
+                        $ $product_price                    
                         </div>
                     </div>
                 </div>
@@ -389,7 +389,7 @@ function getProd()
            
             <div class='pd-desc'>
                 <p>$product_desc</p>
-                <h4>PKR $product_price</h4>
+                <h4>$ $product_price</h4>
             </div>
 
             <ul class='pd-tags'>
@@ -448,7 +448,7 @@ function relatedProducts()
                         <h5>$p_name</h5>
                     </a>
                     <div class='product-price'>
-                        PKR $p_price
+                        $ $p_price
                     </div>
                 </div>
             </div>
@@ -506,7 +506,7 @@ function total_price()
             $total += $sub_price;
         }
     }
-    echo "PKR " . $total;
+    echo "$ " . $total;
 }
 
 $countrows = 0;
@@ -575,7 +575,7 @@ function cart_items()
            <td class='cart-title first-row'>
                <h5><a href='product.php?product_id=$pro_id' style='color:black;font-weight:bold'>$pro_name</h5>
            </td>
-           <td class='p-price first-row'>PKR $pro_price</td>
+           <td class='p-price first-row'>$ $pro_price</td>
            <td class='qua-col first-row'>
                <div class='quantity'>
                    <div class='pro-qty'>
@@ -583,7 +583,7 @@ function cart_items()
                    </div>
                </div>
            </td>
-           <td class='total-price first-row'>PKR $pro_total_p</td>
+           <td class='total-price first-row'>$ $pro_total_p</td>
            <td class='close-td first-row'><a href='shopping-cart.php?del=$pro_id'><i class='ti-close' style='color:black'></i></a></td>
        </tr>    
    ";
@@ -636,7 +636,7 @@ function cart_icon_prod()
         <td class='si-pic'><img src='img/products/$pro_img1' alt='$pro_name' style='max-height:70px'></td>
         <td class='si-text'>
             <div class='product-selected'>
-                <p>PKR $pro_price x $pro_qty</p>
+                <p>$ $pro_price x $pro_qty</p>
                 <h6>$pro_name</h6>
             </div>
         </td>
