@@ -5,13 +5,13 @@
             <div class="col-lg-3">
                 <div class="footer-left">
                     <div class="footer-logo">
-                        <a href="index.php"> <span>Inferno Co.</span>
+                        <a href="index.php"> <span>ToTo Bridal</span>
                         </a>
                     </div>
                     <ul>
                         <li>+92 3213352126</li>
-                        <li>Inferno Co.@gmail.com</li>
-                        <li>NUST H-12, Islamabad</li>
+                        <li>totobridal@gmail.com</li>
+                        <li>160 Phố Huế, Hai Bà Trưng, Hà Nội</li>
                     </ul>
                     <div class="footer-social">
                         <a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a>

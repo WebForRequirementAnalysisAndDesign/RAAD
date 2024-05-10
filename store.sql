@@ -59,9 +59,9 @@ CREATE TABLE `category` (
 --
 
 INSERT INTO `category` (`cat_id`, `cat_title`, `cat_desc`) VALUES
-(1, 'Men', ' Latest and best outfits for men'),
-(2, 'Women', ' Latest and best outfits for women'),
-(3, 'Kids', ' Latest and best outfits for kids');
+(1, 'Groom', ' Latest and best outfits for grooms'),
+(2, 'Bride', ' Latest and best outfits for brides'),
+(3, 'Accessory', ' Latest and best outfits for accessories');
 
 -- --------------------------------------------------------
 
