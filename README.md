@@ -1,7 +1,7 @@
 # Instructions
 
 To use this source code:\
-Clone/download source from https://github.com/WebForRequirementAnalysisAndDesign/RAAD\
+Clone/download source from https://github.com/WebForRequirementAnalysisAndDesign/RAAD \
 Download XAMPP\
 Start apache and MySQL\
 Go to phpMyadmin and import file store.sql\
