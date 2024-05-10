@@ -1,3 +1,5 @@
+# This is a simple demo for wedding shop website
+
 # Instructions
 
 To use this source code:\
