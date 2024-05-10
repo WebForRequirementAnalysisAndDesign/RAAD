@@ -1,11 +1,11 @@
 # Instructions
 
 To use this source code:\
-Clone/download source from https://github.com/WebForRequirementAnalysisAndDesign/RAAD \
-Download XAMPP\
-Start apache and MySQL\
-Go to phpMyadmin and import file store.sql\
-URL: localhost/RAAD\
+1.Clone/download source from https://github.com/WebForRequirementAnalysisAndDesign/RAAD \
+2.Download XAMPP\
+3.Start apache and MySQL\
+4.Go to phpMyadmin and import file store.sql\
+5.Browser URL: localhost/RAAD\
 
 ## Features
 
