@@ -54,7 +54,6 @@ include('db.php');
                         <a href="https://www.instagram.com/?hl=en" target="_blank"><i class="ti-instagram"></i></a>
                     </div>
                 </div>
-
                 <div class="f-right">
                     <ul class="nav-right">
                         <li class="user-icon">

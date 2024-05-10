@@ -100,7 +100,7 @@ include('footer.php');
         if (!con.match(numbers)) {
             $("#conerr").html(
                 "<span class='alert alert-danger'>" +
-                "Enter Valid Contact (11 Digit)</span>");
+                "Enter Valid Contact (10 Digit)</span>");
 
             event.preventDefault();
         }
