@@ -38,7 +38,7 @@ include("header.php");
                         </div>
                         <div class="ci-text">
                             <span>Address:</span>
-                            <p>160 Phố Huế, Hai Bà Trưng, Hà Nội</p>
+                            <p>19 Đ. Nguyễn Hữu Thọ, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh</p>
                         </div>
                     </div>
                     <div class="cw-item">
@@ -47,7 +47,7 @@ include("header.php");
                         </div>
                         <div class="ci-text">
                             <span>Phone:</span>
-                            <p>+92 3213352126</p>
+                            <p>+84 3213352126</p>
                         </div>
                     </div>
                     <div class="cw-item">

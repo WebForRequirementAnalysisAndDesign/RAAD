@@ -9,9 +9,9 @@
                         </a>
                     </div>
                     <ul>
-                        <li>+92 3213352126</li>
+                        <li>+84 3213352126</li>
                         <li>totobridal@gmail.com</li>
-                        <li>160 Phố Huế, Hai Bà Trưng, Hà Nội</li>
+                        <li>19 Đ. Nguyễn Hữu Thọ, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh</li>
                     </ul>
                     <div class="footer-social">
                         <a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a>
