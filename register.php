@@ -85,7 +85,7 @@ include('footer.php');
 
         var letters = /^[A-Za-z]+$/;
         var em = /\S+@\S+\.\S+/;
-        var numbers = /^[0-9]{11}$/;
+        var numbers = /^[0-9]{10}$/;
 
 
         if (!name.match(letters)) {
