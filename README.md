@@ -1,25 +1,13 @@
-# Inferno Online Clothing Store
-
-An Ecommerce Clothing Store Website
+# This is a simple demo for wedding shop website
 
 # Instructions
 
-To get the website up and running on your machine, you will need [XAMPP](https://www.apachefriends.org/download.html). After installtion, follow the steps below.
-
-1. Clone the repository using this command.
-   ```python
-   git clone https://github.com/yousaf530/Ecommerce-Clothing-Website.git
-   ```
-2. Copy and Paste the cloned folder in the **htdocs** folder in XAMPP folder on your machine.
-3. Start Apache and MySQL from XAMPP control panel.
-4. Open browser and write `localhost` in the url bar and XAMPP interface will open. Navigate to phpMyAdmin using Navbar.
-5. Import the `store.sql` file in the phpMyAdmin panel in XAMPP.
-6. You might need to provide the root user password in the `functions.php` and `db.php` in `mysqli_connect()` if you have already mySQL installed on your machine.
-7. Type in the browser url bar
-   ```python 
-   localhost/Ecommerce-Clothing-Website
-   ```
-   Congrats! The Website is live on your machine.
+To use this source code:\
+  1.Clone/download source from https://github.com/WebForRequirementAnalysisAndDesign/RAAD \
+  2.Download XAMPP\
+  3.Start apache and MySQL\
+  4.Go to phpMyadmin and import file store.sql\
+  5.Browser URL: localhost/RAAD\
 
 ## Features
 
